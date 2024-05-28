@@ -68,8 +68,8 @@ For inquiries or support, please contact:
 - Sanskruti Dhal: [dhalsanskruti114@gmail.com](mailto:dhalsanskruti114@gmail.com)
 
 ### References
-[1]T. Knayer and N. Kryvinska, “An analysis of smart meter technologies for efficient energy management in households and organizations,” Energy Reports, vol. 8, pp. 4022–4040, Nov. 2022, doi: https://doi.org/10.1016/j.egyr.2022.03.041.
-[2]TY - BOOK AU - Arif, Anmar AU - Al-Hussain, Muhannad AU - Al-Mutairi, Nayef AU - Al-Ammar, Essam AU - Khan, Yasin AU - Malik, N.H. PY - 2013/03/01 SP - 515 EP - 520 SN - 978-1-4673-6373-0 T1 - Experimental study and design of smart energy meter for the smart grid VL - DO - 10.1109/IRSEC.2013.6529714 JO - Proceedings of 2013 International Renewable and Sustainable Energy Conference, IRSEC 2013 ER -
+- [1]T. Knayer and N. Kryvinska, “An analysis of smart meter technologies for efficient energy management in households and organizations,” Energy Reports, vol. 8, pp. 4022–4040, Nov. 2022, doi: https://doi.org/10.1016/j.egyr.2022.03.041.
+- [2]TY - BOOK AU - Arif, Anmar AU - Al-Hussain, Muhannad AU - Al-Mutairi, Nayef AU - Al-Ammar, Essam AU - Khan, Yasin AU - Malik, N.H. PY - 2013/03/01 SP - 515 EP - 520 SN - 978-1-4673-6373-0 T1 - Experimental study and design of smart energy meter for the smart grid VL - DO - 10.1109/IRSEC.2013.6529714 JO - Proceedings of 2013 International Renewable and Sustainable Energy Conference, IRSEC 2013 ER -
 
 ‌
 ‌
